@@ -1,0 +1,1 @@
+# near-smart-contract-example
